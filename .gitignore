@@ -1,0 +1,6 @@
+data/
+ssd_mobilenet_v2_coco_2018_03_29/
+training/
+*.tar.gz
+*.pyc
+*.ckpt.*
